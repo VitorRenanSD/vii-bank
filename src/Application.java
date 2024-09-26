@@ -12,6 +12,7 @@ public class Application {
         SavingsAccount savingsAccount = new SavingsAccount(222750, "SAVINGS " + fullName);
         int option;
 
+        System.out.println("Developed by: VitorRenanSD");
         System.out.println("\nWELCOME TO VII'S BANK!");
         do {
             System.out.println("\nChoose an option:");
