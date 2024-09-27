@@ -17,12 +17,10 @@ The **vii-bank** project is a simple banking management application written in J
 
 1. **Clone the repository**:
    git clone https://github.com/VitorRenanSD/vii-bank.git
-   
-2. Compile the project: Navigate to the project directory and compile the Java files:
-   javac *.java
 
-3. Run the program: After compilation, execute the main class:
-   java Application
+**2. You will need Java JDK installed!**
+   
+3. Compile the project: Navigate to the project directory and run the file "Run.bat"
 
 ## Project Structure
 
@@ -44,5 +42,3 @@ The **vii-bank** project is a simple banking management application written in J
 
 ## Contact
 - For any inquiries, please contact: vitorrenansouzadias@gmail.com
-
-  
