@@ -16,7 +16,7 @@ The **vii-bank** project is a simple banking management application written in J
 ## How to Run the Project
 
 1. **Clone the repository**:
-   git clone https://github.com/your_username/vii-bank.git
+   git clone https://github.com/VitorRenanSD/vii-bank.git
    
 2. Compile the project: Navigate to the project directory and compile the Java files:
    javac *.java
